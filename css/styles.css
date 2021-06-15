@@ -1,0 +1,123 @@
+  body{
+    margin-bottom: 0;
+    margin: 0;
+    color: grey;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+  h1{
+    line-height: 2;
+    font-size: 5.625;
+    color:  #66BFBF;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+  }
+  h2{
+    color:  #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  h3{
+    margin-top: 50px;
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+  }
+  a{
+    color: #11999E;
+  }
+  img{
+    height: 20%;
+  }
+.Firstdiv{
+
+  background-color: #e0ffff;
+}
+.Secdiv{
+}
+.Thirddiv{
+
+  width: 200px;
+  height: 200px;
+
+}
+.Game{
+  text-decoration: underline;
+  font-weight:normal;
+}
+.computer{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.mountain{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.topcloud{
+  height: 70px;
+  width: 150px;
+  position: absolute;
+  top:2px;
+  right:320px;
+}
+.bottomcloud{
+  height: 70px;
+  width: 150px;
+  position: absolute;
+  top:70px;
+  left:320px;
+}
+.MyProfilePic{
+  margin-top: 80px;
+  width: 20%;
+  position:relative;
+  align-items: center;
+}
+.Unity{
+  width: 30%;
+  float:left;
+  margin-right:10px;
+}
+.Vuforia{
+  width: 30%;
+  float: right;
+  margin-left: 10px;
+}
+.skills{
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+}
+.bottom-container{
+  background-color: cyan;
+  margin-bottom: 0;
+}
+hr{
+  margin-top: 50px;
+  width: 100px;
+  border-style: dotted;
+  border-width: 5px;
+  border-top: 0;
+  border-spacing: inherit;
+}
+.buttontomail {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color:red;
+}
+.buttontomail:hover {
+  background-color: #4CAF50;
+  color: white;
+}
